@@ -1,0 +1,351 @@
+feedback_id,date,customer_id,feedback,rating,product,channel
+1,2024-08-15,CUST8285,Package still hasn't arrived after 10 days. Very disappointed. Would try again.,1,Phone Charger,Website
+2,2024-09-30,CUST1611,The EMI charges were wrong and I was overcharged. Would not buy again.,1,Laptop Bag,Mobile App
+3,2024-10-24,CUST5349,The product quality is excellent. Very happy with my purchase. Would not buy again.,4,USB Hub,Email
+4,2024-12-30,CUST7525,Requested a return 10 days ago and still waiting for pickup. Would not buy again.,1,HDMI Cable,Mobile App
+5,2024-02-28,CUST5298,The app logged me out and deleted my cart.,2,Earbuds,In-Store
+6,2024-09-27,CUST1697,Refund amount received was less than what I paid.,1,Smart Watch,In-Store
+7,2024-08-20,CUST2442,Average experience. Would try again to see if it improves.,4,Webcam,WhatsApp
+8,2024-10-27,CUST6400,The courier did not attempt delivery and left a card.,1,Laptop Bag,WhatsApp
+9,2024-10-13,CUST7985,Cannot complete checkout on the app. It shows an error. Overall 40% satisfied.,2,Keyboard,Phone
+10,2024-10-16,CUST1672,Product works perfectly. Very happy with the purchase.,5,Router,Phone
+11,2024-08-16,CUST1797,The quality is terrible. Not worth the money.,1,Wireless Mouse,Phone
+12,2024-08-26,CUST8238,Outstanding quality and great packaging. 5 stars! Overall 94% satisfied.,5,Smart Watch,Email
+13,2024-05-06,CUST8172,Delivery was extremely delayed. No tracking updates provided.,2,Earbuds,Email
+14,2024-05-16,CUST3330,Item received as described. No major complaints. Would try again.,3,Wireless Mouse,Mobile App
+15,2024-10-25,CUST7543,"Excellent product, works exactly as described.",5,Keyboard,Mobile App
+16,2024-05-01,CUST5944,Battery life is terrible. Lasts only 2 hours. Overall 93% satisfied.,1,Earbuds,Mobile App
+17,2024-10-20,CUST5380,Cannot update my delivery address on the account page. Overall 57% satisfied.,1,Phone Case,Phone
+18,2024-03-26,CUST2876,Outstanding quality and great packaging. 5 stars! Overall 52% satisfied.,4,HDMI Cable,Website
+19,2024-11-29,CUST4267,My card was charged for a product I never ordered.,2,Desk Lamp,WhatsApp
+20,2024-05-13,CUST4346,My order arrived earlier than expected. Great service! Overall 92% satisfied.,5,Keyboard,WhatsApp
+21,2024-02-21,CUST4180,Happy with the quality. The product is exactly what I needed. Overall 95% satisfied.,5,Keyboard,WhatsApp
+22,2024-12-02,CUST9889,Item received as described. No major complaints.,4,Laptop Bag,Website
+23,2024-03-07,CUST9850,My package was delivered to a neighbor without my consent. Would not buy again.,2,Power Bank,Website
+24,2024-08-05,CUST4585,The app is very smooth and easy to use. Love it.,4,Earbuds,Phone
+25,2024-08-28,CUST6246,The color is completely different from what was shown online.,1,Phone Charger,WhatsApp
+26,2024-03-18,CUST3444,The customer service was average. Could be more helpful.,4,Laptop Stand,Mobile App
+27,2024-08-10,CUST3885,The product looks and feels premium. Worth every penny. Would try again.,5,Router,Phone
+28,2024-10-03,CUST3167,"Excellent product, works exactly as described. Would try again.",5,Keyboard,Phone
+29,2024-06-01,CUST1528,Password reset link is not working. Would recommend.,2,Webcam,WhatsApp
+30,2024-08-13,CUST2633,The website is functional but a bit outdated.,4,Bluetooth Headphones,In-Store
+31,2024-08-24,CUST5616,The delivery timeline was completely wrong. Took 12 days.,2,Earbuds,Email
+32,2024-07-06,CUST1741,The invoice does not match the actual amount charged.,2,Wireless Mouse,Email
+33,2024-04-05,CUST8061,The return label they sent was invalid.,2,Router,Email
+34,2024-01-29,CUST5806,Overall experience was satisfactory. Could be improved. Overall 25% satisfied.,4,Phone Charger,Phone
+35,2024-11-04,CUST9341,Money deducted but I received no order confirmation. Would recommend.,2,Earbuds,Website
+36,2024-07-22,CUST5520,The courier did not attempt delivery and left a card.,1,USB Hub,Phone
+37,2024-11-23,CUST1939,The support team took 7 days to respond to my simple question. Overall 75% satisfied.,1,Screen Protector,WhatsApp
+38,2024-05-06,CUST3308,The agent couldn't resolve my issue and transferred me 3 times.,1,Wireless Mouse,WhatsApp
+39,2024-05-01,CUST9094,I had to contact support 5 times for the same issue. Would not buy again.,1,Phone Charger,Email
+40,2024-10-27,CUST4538,The delivery timeline was completely wrong. Took 12 days. Would not buy again.,1,Desk Lamp,Mobile App
+41,2024-11-06,CUST9138,Customer support responded eventually but took time.,4,Keyboard,Email
+42,2024-11-24,CUST9346,Really good product. No complaints at all. Overall 55% satisfied.,5,Router,WhatsApp
+43,2024-01-29,CUST3295,Product quality is far below what was advertised. Would not buy again.,2,Keyboard,In-Store
+44,2024-09-14,CUST3762,The chat support kept disconnecting without resolving my issue.,1,Power Bank,In-Store
+45,2024-05-20,CUST1920,The package was clearly mishandled. Item was broken inside. Overall 100% satisfied.,2,Earbuds,Website
+46,2024-12-21,CUST3316,Search functionality on the website doesn't work properly. Overall 43% satisfied.,2,Laptop Bag,Email
+47,2024-05-17,CUST3526,The return label they sent was invalid.,2,Phone Case,In-Store
+48,2024-01-07,CUST5658,Product works perfectly. Very happy with the purchase.,5,Monitor,Phone
+49,2024-08-07,CUST1430,My parcel arrived after a week. Unacceptable for paid shipping. Would recommend.,2,Bluetooth Headphones,Mobile App
+50,2024-12-05,CUST3492,Average experience. Would try again to see if it improves.,4,Wireless Mouse,Mobile App
+51,2024-06-02,CUST3580,The support team took 7 days to respond to my simple question. Overall 28% satisfied.,1,Phone Charger,Email
+52,2024-05-01,CUST6304,My order arrived 6 days late. The promised delivery was 2 days. Overall 21% satisfied.,1,Power Bank,WhatsApp
+53,2024-02-21,CUST3252,I was charged twice for the same order.,1,Router,Mobile App
+54,2024-12-15,CUST9835,The finish is poor and shows scratches easily.,1,Phone Charger,Website
+55,2024-09-26,CUST6053,Package arrived damaged due to poor shipping handling.,1,Keyboard,Phone
+56,2024-09-01,CUST2869,The product meets basic requirements. Overall 26% satisfied.,3,Screen Protector,Phone
+57,2024-01-17,CUST6413,The customer service team was very polite and helpful.,4,Earbuds,Mobile App
+58,2024-06-01,CUST5735,Refund has not been processed even after 15 days. Would try again.,1,Monitor,WhatsApp
+59,2024-06-21,CUST1470,The app is very smooth and easy to use. Love it.,5,Desk Lamp,Mobile App
+60,2024-03-19,CUST4214,Battery life is terrible. Lasts only 2 hours. Overall 73% satisfied.,2,Keyboard,Phone
+61,2024-03-02,CUST5033,"Delivery was super fast, got my package in just 2 days.",4,Laptop Stand,Phone
+62,2024-12-22,CUST5844,My order arrived earlier than expected. Great service!,4,Smart Watch,Phone
+63,2024-09-19,CUST7806,Product quality is far below what was advertised. Would not buy again.,2,Wireless Mouse,Email
+64,2024-09-28,CUST7012,The support team took 7 days to respond to my simple question. Would recommend.,2,Desk Lamp,In-Store
+65,2024-08-26,CUST5712,Order arrived correctly but the delivery experience was average.,3,Laptop Stand,Phone
+66,2024-08-18,CUST7079,Product was damaged when I received it. Clearly poor packaging.,1,Router,In-Store
+67,2024-05-25,CUST2374,No response to my email even after 5 days.,1,Webcam,Phone
+68,2024-05-02,CUST1949,The product quality is excellent. Very happy with my purchase. Overall 66% satisfied.,4,Laptop Stand,Website
+69,2024-08-24,CUST1672,Delivery was extremely delayed. No tracking updates provided.,2,Smart Watch,WhatsApp
+70,2024-11-10,CUST1710,I paid for express delivery but it arrived on standard time. Would not buy again.,2,Mechanical Keyboard,In-Store
+71,2024-12-05,CUST3041,"Delivery was super fast, got my package in just 2 days. Overall 62% satisfied.",5,Earbuds,WhatsApp
+72,2024-02-01,CUST8381,My package was delivered to a neighbor without my consent. Would recommend.,1,Desk Lamp,In-Store
+73,2024-02-09,CUST9363,Received a wrong item in my order. Very inconvenient. Would not buy again.,1,Earbuds,Email
+74,2024-02-19,CUST8178,The app keeps showing loading but never loads the page.,2,Desk Lamp,Website
+75,2024-09-02,CUST4422,Very flimsy construction. Would not recommend. Would try again.,2,HDMI Cable,Website
+76,2024-03-31,CUST9095,Still waiting for my package after 8 days. Very frustrating.,2,Mechanical Keyboard,In-Store
+77,2024-10-05,CUST7010,My account was locked without any explanation. Overall 34% satisfied.,1,Mechanical Keyboard,Email
+78,2024-09-25,CUST6908,Support response was generic and didn't address my problem.,1,Earbuds,Email
+79,2024-07-12,CUST1647,The finish is poor and shows scratches easily. Overall 26% satisfied.,1,Smart Watch,Email
+80,2024-03-26,CUST1725,The website is very slow and keeps timing out. Overall 51% satisfied.,2,Desk Lamp,Phone
+81,2024-05-20,CUST2529,OTP is not being received on my registered number. Would try again.,2,Webcam,Website
+82,2024-12-04,CUST6517,Shipment tracking showed no update for 4 days.,1,Screen Protector,Mobile App
+83,2024-02-16,CUST2398,Order was delayed by several days without any notification.,1,Laptop Bag,Website
+84,2024-08-06,CUST2768,My order arrived 6 days late. The promised delivery was 2 days.,2,Mechanical Keyboard,Website
+85,2024-04-14,CUST6573,The agent couldn't resolve my issue and transferred me 3 times.,1,Desk Lamp,In-Store
+86,2024-09-25,CUST7229,Money was deducted from my account but order was cancelled. Would try again.,1,Keyboard,Website
+87,2024-09-29,CUST7214,The product developed a fault within the first week.,1,Keyboard,Phone
+88,2024-12-22,CUST7821,The product stopped working after just 2 days of use. Overall 68% satisfied.,2,Phone Case,WhatsApp
+89,2024-01-10,CUST8225,Still waiting for my refund after filing the request 3 weeks ago. Would try again.,2,Laptop Bag,Mobile App
+90,2024-02-10,CUST5105,I had to contact support 5 times for the same issue. Overall 86% satisfied.,1,Router,WhatsApp
+91,2024-11-08,CUST4626,Delivery was on time but the packaging could be better. Overall 91% satisfied.,3,Mechanical Keyboard,In-Store
+92,2024-07-22,CUST4249,Got exactly what I ordered. Very pleased with the experience.,4,Keyboard,Website
+93,2024-06-25,CUST1402,Website interface is confusing and hard to navigate. Would recommend.,2,USB Hub,WhatsApp
+94,2024-10-12,CUST3869,This item is nothing like described. Very disappointed.,2,Router,Phone
+95,2024-06-09,CUST1936,Fast shipping and perfect packaging. Really impressed.,4,Monitor,Email
+96,2024-07-18,CUST8702,I've been waiting 4 days for a response to my support ticket.,1,Screen Protector,WhatsApp
+97,2024-06-17,CUST8212,Refund amount received was less than what I paid.,2,Laptop Bag,In-Store
+98,2024-12-08,CUST1794,The product stopped working after just 2 days of use.,1,Laptop Bag,Mobile App
+99,2024-04-24,CUST2124,Excellent craftsmanship and great customer support. Overall 26% satisfied.,4,Bluetooth Headphones,Mobile App
+100,2024-07-15,CUST4858,The payment gateway keeps showing errors. Overall 20% satisfied.,2,Webcam,WhatsApp
+101,2024-02-19,CUST8062,Loved the packaging and product quality. Will buy again.,5,Laptop Bag,Phone
+102,2024-12-13,CUST3240,Received my order. It is as described. Overall 44% satisfied.,3,Wireless Mouse,WhatsApp
+103,2024-01-17,CUST1488,Excellent craftsmanship and great customer support.,4,Smart Watch,Mobile App
+104,2024-02-08,CUST5593,Returning a product is very difficult with this company.,1,Power Bank,WhatsApp
+105,2024-08-22,CUST2752,My return request was ignored for 2 weeks. Would try again.,1,HDMI Cable,Website
+106,2024-03-15,CUST1265,This item is nothing like described. Very disappointed. Would not buy again.,2,Router,Email
+107,2024-09-13,CUST8726,My card was charged for a product I never ordered.,1,Phone Case,Email
+108,2024-11-12,CUST1496,Support response was generic and didn't address my problem.,2,Router,WhatsApp
+109,2024-08-12,CUST2317,Customer support responded eventually but took time.,3,Laptop Bag,In-Store
+110,2024-12-24,CUST2044,Very poor build quality. The item broke within a week. Overall 74% satisfied.,1,Laptop Stand,Phone
+111,2024-01-02,CUST5634,Product works but battery life could be better. Overall 84% satisfied.,4,Monitor,Mobile App
+112,2024-11-18,CUST4185,Great product at an affordable price. Highly recommended.,5,Monitor,Phone
+113,2024-04-29,CUST7730,The app is functional but needs some improvements.,3,Desk Lamp,In-Store
+114,2024-03-10,CUST7887,The product stopped working after just 2 days of use. Would recommend.,2,Screen Protector,Phone
+115,2024-05-16,CUST7502,Battery life is terrible. Lasts only 2 hours. Overall 52% satisfied.,1,Phone Charger,Phone
+116,2024-07-12,CUST2291,"Excellent product, works exactly as described.",5,Phone Charger,Email
+117,2024-06-07,CUST7171,My order was marked as delivered but I never received it.,2,Phone Case,In-Store
+118,2024-11-09,CUST6218,The invoice does not match the actual amount charged. Overall 37% satisfied.,1,Screen Protector,Email
+119,2024-01-26,CUST9856,The app is very smooth and easy to use. Love it.,4,Laptop Stand,Mobile App
+120,2024-02-12,CUST7955,Support chat is slow and agents don't seem knowledgeable. Overall 86% satisfied.,1,Laptop Bag,Email
+121,2024-08-01,CUST9683,Product smell is very strong and unpleasant.,1,Screen Protector,Mobile App
+122,2024-12-10,CUST3194,Payment page on the app freezes every time.,2,USB Hub,Mobile App
+123,2024-10-01,CUST4033,Excellent craftsmanship and great customer support.,4,Smart Watch,In-Store
+124,2024-06-20,CUST6238,Product works perfectly. Very happy with the purchase. Overall 50% satisfied.,4,Phone Case,Mobile App
+125,2024-05-04,CUST1831,Refund has not been processed even after 15 days. Would not buy again.,1,Keyboard,Website
+126,2024-04-23,CUST4269,Great value for money. Highly recommend to everyone.,5,Phone Charger,WhatsApp
+127,2024-04-13,CUST9824,Refund has not been processed even after 15 days. Would try again.,2,Router,In-Store
+128,2024-05-03,CUST4692,This item is nothing like described. Very disappointed.,2,Phone Case,Phone
+129,2024-02-02,CUST2816,The support agent was rude and unhelpful.,2,Router,Website
+130,2024-06-23,CUST5581,Happy with the quality. The product is exactly what I needed. Overall 65% satisfied.,5,Router,Website
+131,2024-11-01,CUST8775,Refund was promised within 5 days but it's been 2 weeks.,2,Keyboard,In-Store
+132,2024-09-28,CUST5501,The color is completely different from what was shown online.,2,Bluetooth Headphones,Email
+133,2024-07-27,CUST9004,Fantastic experience from ordering to delivery. Thank you! Would not buy again.,4,Monitor,In-Store
+134,2024-04-24,CUST1056,This product is completely defective. Does not work at all. Would try again.,1,HDMI Cable,Phone
+135,2024-10-09,CUST1224,Service was standard. Nothing exceptional. Overall 40% satisfied.,4,Laptop Stand,Mobile App
+136,2024-12-16,CUST6313,Best purchase I've made this year. Absolutely love it. Would recommend.,4,Keyboard,Website
+137,2024-08-04,CUST7176,Search functionality on the website doesn't work properly. Would not buy again.,1,Mechanical Keyboard,Email
+138,2024-03-09,CUST5333,My order arrived earlier than expected. Great service!,4,USB Hub,In-Store
+139,2024-08-12,CUST3037,Overall experience was satisfactory. Could be improved. Overall 92% satisfied.,4,HDMI Cable,In-Store
+140,2024-11-08,CUST2625,Product is acceptable for the price point.,3,Smart Watch,WhatsApp
+141,2024-09-11,CUST3344,Service was standard. Nothing exceptional. Would recommend.,3,Mechanical Keyboard,In-Store
+142,2024-02-03,CUST3067,Delivery was extremely delayed. No tracking updates provided. Would recommend.,2,Router,In-Store
+143,2024-05-27,CUST2294,Hidden charges added at checkout without prior notice.,2,Mechanical Keyboard,In-Store
+144,2024-04-22,CUST3188,The invoice does not match the actual amount charged. Would recommend.,2,Phone Case,Phone
+145,2024-05-15,CUST3287,Happy with the quality. The product is exactly what I needed. Would recommend.,4,Router,Email
+146,2024-03-27,CUST8492,Cannot login to my account even with correct password. Overall 48% satisfied.,2,Router,Email
+147,2024-06-03,CUST4460,My package was delivered to a neighbor without my consent. Would not buy again.,1,Webcam,WhatsApp
+148,2024-03-16,CUST1400,My order arrived earlier than expected. Great service! Would recommend.,4,Keyboard,Phone
+149,2024-07-01,CUST1783,The helpline number is always busy. Very poor service. Overall 44% satisfied.,2,Webcam,Website
+150,2024-08-08,CUST8398,My parcel arrived after a week. Unacceptable for paid shipping. Would try again.,1,Laptop Bag,WhatsApp
+151,2024-11-21,CUST6869,Cannot login to my account even with correct password.,1,Router,Phone
+152,2024-02-02,CUST7797,The app is very smooth and easy to use. Love it. Would recommend.,5,Desk Lamp,Email
+153,2024-05-08,CUST1832,The customer service team was very polite and helpful.,4,Laptop Bag,WhatsApp
+154,2024-10-09,CUST2229,The customer service was average. Could be more helpful. Would not buy again.,3,Bluetooth Headphones,Phone
+155,2024-06-19,CUST2335,My order was marked as delivered but I never received it. Would recommend.,1,Phone Charger,WhatsApp
+156,2024-05-04,CUST4350,The quality is terrible. Not worth the money.,2,Keyboard,Email
+157,2024-02-16,CUST1085,Refund amount received was less than what I paid.,2,Mechanical Keyboard,WhatsApp
+158,2024-10-21,CUST2208,Support chat is slow and agents don't seem knowledgeable.,1,Desk Lamp,In-Store
+159,2024-09-24,CUST7232,Item received as described. No major complaints. Would try again.,4,Mechanical Keyboard,WhatsApp
+160,2024-03-07,CUST7070,My complaint was closed without resolution.,1,Desk Lamp,Mobile App
+161,2024-09-26,CUST8319,The finish is poor and shows scratches easily.,2,Laptop Stand,Email
+162,2024-03-14,CUST8179,I've been waiting 4 days for a response to my support ticket.,1,Phone Case,Website
+163,2024-03-06,CUST8787,Excellent craftsmanship and great customer support. Would recommend.,4,Webcam,Email
+164,2024-05-13,CUST6890,Refund has not been processed even after 15 days.,1,Wireless Mouse,In-Store
+165,2024-06-09,CUST7992,Delivery was to wrong address. Had to call multiple times.,2,Webcam,WhatsApp
+166,2024-04-05,CUST5742,The invoice does not match the actual amount charged.,1,Bluetooth Headphones,WhatsApp
+167,2024-11-09,CUST5678,The helpline number is always busy. Very poor service. Would recommend.,2,Smart Watch,Website
+168,2024-12-01,CUST2622,Product is acceptable for the price point.,4,Laptop Bag,WhatsApp
+169,2024-07-20,CUST1444,Smooth transaction and quick delivery. Happy customer!,4,Laptop Bag,Mobile App
+170,2024-12-12,CUST9856,Returning a product is very difficult with this company.,2,Screen Protector,In-Store
+171,2024-05-18,CUST6023,The website is user-friendly and checkout was smooth.,5,Keyboard,Website
+172,2024-08-20,CUST6977,Really good product. No complaints at all. Overall 68% satisfied.,4,Phone Charger,WhatsApp
+173,2024-11-04,CUST4290,Returning a product is very difficult with this company. Overall 58% satisfied.,2,Desk Lamp,Mobile App
+174,2024-09-09,CUST3390,My refund was rejected without any valid reason. Overall 58% satisfied.,1,Power Bank,Phone
+175,2024-09-17,CUST2312,Smooth transaction and quick delivery. Happy customer!,4,Laptop Stand,Email
+176,2024-05-29,CUST1534,Packaging was simple but item was protected.,3,HDMI Cable,In-Store
+177,2024-02-27,CUST2232,Product works perfectly. Very happy with the purchase.,4,Router,Website
+178,2024-08-03,CUST7381,The item was delivered on time and in perfect condition. Would recommend.,4,Screen Protector,Phone
+179,2024-03-12,CUST1742,Overall experience was satisfactory. Could be improved.,3,HDMI Cable,Phone
+180,2024-07-17,CUST8432,Item received as described. No major complaints. Would not buy again.,4,Router,Phone
+181,2024-07-26,CUST9233,I was charged twice for the same order. Would recommend.,2,USB Hub,In-Store
+182,2024-09-30,CUST6886,The material feels cheap and is already peeling.,2,Webcam,WhatsApp
+183,2024-11-22,CUST5291,Amazing customer service! They resolved my issue within minutes. Would not buy again.,4,Mechanical Keyboard,Email
+184,2024-11-28,CUST9928,Fantastic experience from ordering to delivery. Thank you! Would try again.,5,Keyboard,Phone
+185,2024-09-16,CUST9351,Payment was processed twice and I need a refund. Overall 95% satisfied.,2,HDMI Cable,Phone
+186,2024-02-15,CUST6798,The customer service denied my refund claim unfairly.,1,Desk Lamp,Phone
+187,2024-08-12,CUST1715,Still waiting for my package after 8 days. Very frustrating. Would not buy again.,2,Phone Charger,In-Store
+188,2024-05-25,CUST8444,Still waiting for my refund after filing the request 3 weeks ago. Overall 33% satisfied.,2,Phone Case,Email
+189,2024-05-26,CUST7930,The product quality is excellent. Very happy with my purchase.,5,Phone Case,Mobile App
+190,2024-06-02,CUST2320,My return request was ignored for 2 weeks. Would try again.,1,Laptop Stand,Phone
+191,2024-05-29,CUST8032,I've been waiting 4 days for a response to my support ticket. Would try again.,1,Phone Charger,Mobile App
+192,2024-11-17,CUST6179,I paid for express delivery but it arrived on standard time. Overall 99% satisfied.,1,Mechanical Keyboard,Website
+193,2024-11-11,CUST1086,The chat support kept disconnecting without resolving my issue.,1,Bluetooth Headphones,WhatsApp
+194,2024-01-30,CUST7041,Package arrived damaged due to poor shipping handling.,2,Laptop Stand,In-Store
+195,2024-04-05,CUST9176,The helpline number is always busy. Very poor service.,2,Router,Website
+196,2024-12-19,CUST8272,The agent couldn't resolve my issue and transferred me 3 times. Would try again.,2,Mechanical Keyboard,Website
+197,2024-06-08,CUST6314,Delivery was to wrong address. Had to call multiple times. Overall 40% satisfied.,1,Wireless Mouse,Mobile App
+198,2024-05-07,CUST3396,Cannot login to my account even with correct password. Would recommend.,2,Keyboard,In-Store
+199,2024-06-11,CUST8994,The customer service was average. Could be more helpful.,3,Laptop Stand,Mobile App
+200,2024-04-19,CUST7570,Very satisfied with my order. Everything was perfect.,4,Power Bank,Phone
+201,2024-06-01,CUST8430,Support agent was dismissive and did not take my complaint seriously.,1,Wireless Mouse,Mobile App
+202,2024-10-28,CUST4608,The product quality is excellent. Very happy with my purchase. Would try again.,4,Laptop Stand,In-Store
+203,2024-10-07,CUST8305,Great product at an affordable price. Highly recommended.,4,Monitor,Phone
+204,2024-09-27,CUST5119,"Delivery was super fast, got my package in just 2 days.",4,USB Hub,In-Store
+205,2024-06-24,CUST2791,Search functionality on the website doesn't work properly.,1,Keyboard,Email
+206,2024-04-23,CUST8391,I've been waiting 4 days for a response to my support ticket.,2,Bluetooth Headphones,Phone
+207,2024-01-29,CUST1154,Refund amount received was less than what I paid.,1,Laptop Stand,Phone
+208,2024-01-10,CUST6940,Shipment tracking showed no update for 4 days. Overall 74% satisfied.,2,Power Bank,Mobile App
+209,2024-06-16,CUST1485,Unable to initiate a return through the website. It keeps erroring.,2,Mechanical Keyboard,Phone
+210,2024-09-16,CUST2743,The product quality is excellent. Very happy with my purchase. Would try again.,5,Earbuds,Email
+211,2024-09-25,CUST2288,My parcel arrived after a week. Unacceptable for paid shipping.,2,HDMI Cable,In-Store
+212,2024-05-24,CUST7347,My package was delivered to a neighbor without my consent. Overall 66% satisfied.,2,Desk Lamp,In-Store
+213,2024-04-30,CUST2684,The delivery timeline was completely wrong. Took 12 days. Would recommend.,1,Webcam,Mobile App
+214,2024-11-09,CUST2412,Support response was generic and didn't address my problem. Would recommend.,1,HDMI Cable,Phone
+215,2024-02-09,CUST6916,The return label they sent was invalid.,2,Keyboard,In-Store
+216,2024-12-14,CUST4365,The finish is poor and shows scratches easily.,2,Laptop Stand,Email
+217,2024-10-17,CUST4164,Payment failed but money was still deducted. Overall 63% satisfied.,1,Screen Protector,Phone
+218,2024-02-16,CUST4750,The product meets basic requirements.,3,Webcam,Email
+219,2024-02-17,CUST5820,Product works perfectly. Very happy with the purchase.,4,Screen Protector,In-Store
+220,2024-02-07,CUST7329,Money deducted but I received no order confirmation. Overall 66% satisfied.,2,Router,WhatsApp
+221,2024-10-01,CUST1133,Billing amount was higher than the price shown at checkout. Overall 80% satisfied.,1,Laptop Bag,Mobile App
+222,2024-07-15,CUST1530,I had to contact support 5 times for the same issue. Overall 66% satisfied.,1,Mechanical Keyboard,WhatsApp
+223,2024-10-30,CUST9939,Website interface is confusing and hard to navigate. Would recommend.,1,Router,Website
+224,2024-11-22,CUST7086,Packaging was simple but item was protected.,3,Keyboard,Phone
+225,2024-10-03,CUST4295,Really good product. No complaints at all. Would try again.,5,Screen Protector,In-Store
+226,2024-06-14,CUST5022,The item was delivered on time and in perfect condition. Overall 95% satisfied.,4,Webcam,Phone
+227,2024-08-30,CUST9508,Money was deducted from my account but order was cancelled. Overall 37% satisfied.,2,Phone Case,Email
+228,2024-05-11,CUST9005,Battery life is terrible. Lasts only 2 hours. Overall 83% satisfied.,2,Mechanical Keyboard,Mobile App
+229,2024-06-10,CUST8389,Cannot access my order history on the app. Would recommend.,1,Phone Charger,Website
+230,2024-09-19,CUST2864,Delivery was to wrong address. Had to call multiple times. Would recommend.,2,Laptop Bag,Website
+231,2024-03-06,CUST2584,Refund was promised within 5 days but it's been 2 weeks.,2,Phone Charger,WhatsApp
+232,2024-01-26,CUST6464,Delivery was extremely delayed. No tracking updates provided.,1,Phone Case,Email
+233,2024-11-12,CUST8538,My order was marked as delivered but I never received it. Would not buy again.,2,Laptop Stand,Phone
+234,2024-03-02,CUST5061,The customer service team was very polite and helpful.,4,Laptop Stand,WhatsApp
+235,2024-06-13,CUST2713,Average experience. Would try again to see if it improves. Overall 72% satisfied.,3,Desk Lamp,Phone
+236,2024-12-28,CUST3474,The finish is poor and shows scratches easily.,1,Smart Watch,Email
+237,2024-09-12,CUST5781,Item received as described. No major complaints. Would recommend.,4,Laptop Bag,Phone
+238,2024-12-23,CUST8941,Order delivered correctly. No major issues to report.,3,Bluetooth Headphones,In-Store
+239,2024-12-03,CUST8993,Product quality is far below what was advertised.,1,Bluetooth Headphones,Email
+240,2024-08-27,CUST2233,Average experience. Would try again to see if it improves.,3,Keyboard,In-Store
+241,2024-08-17,CUST4833,My shipment got stuck in transit for 5 days. No support provided. Overall 98% satisfied.,1,HDMI Cable,Phone
+242,2024-10-21,CUST4971,Refund amount received was less than what I paid.,2,Screen Protector,WhatsApp
+243,2024-02-13,CUST4977,Requested a return 10 days ago and still waiting for pickup.,1,Screen Protector,Mobile App
+244,2024-07-21,CUST1228,Customer support responded eventually but took time.,4,Router,Website
+245,2024-05-22,CUST3973,Product is okay. Nothing special but does the job.,4,Monitor,Website
+246,2024-12-21,CUST7046,My account was locked without any explanation. Overall 85% satisfied.,2,Monitor,WhatsApp
+247,2024-12-12,CUST5331,The invoice does not match the actual amount charged. Overall 63% satisfied.,2,Smart Watch,Mobile App
+248,2024-02-27,CUST5808,Five stars for product quality and delivery speed. Overall 54% satisfied.,5,Power Bank,Phone
+249,2024-12-10,CUST2795,Refund was promised within 5 days but it's been 2 weeks. Overall 67% satisfied.,2,HDMI Cable,In-Store
+250,2024-02-03,CUST4456,Loved the packaging and product quality. Will buy again. Overall 71% satisfied.,5,Smart Watch,In-Store
+251,2024-07-26,CUST9977,My order arrived earlier than expected. Great service! Overall 42% satisfied.,4,HDMI Cable,WhatsApp
+252,2024-10-20,CUST9792,Very poor build quality. The item broke within a week. Would not buy again.,1,Power Bank,WhatsApp
+253,2024-12-23,CUST7924,Got exactly what I ordered. Very pleased with the experience. Would recommend.,5,Webcam,Mobile App
+254,2024-10-03,CUST9689,Outstanding quality and great packaging. 5 stars! Would not buy again.,4,Desk Lamp,Phone
+255,2024-11-03,CUST6119,Parcel was left unattended outside. Anyone could have taken it. Overall 26% satisfied.,2,USB Hub,Email
+256,2024-11-07,CUST3803,Outstanding quality and great packaging. 5 stars!,4,Power Bank,Phone
+257,2024-03-21,CUST8179,Five stars for product quality and delivery speed. Overall 67% satisfied.,5,Earbuds,Website
+258,2024-09-26,CUST7173,Extra charges appeared on my bill that were not mentioned.,2,Power Bank,Phone
+259,2024-05-20,CUST1745,Very satisfied with my order. Everything was perfect. Would recommend.,4,Router,WhatsApp
+260,2024-04-30,CUST7326,The support agent was rude and unhelpful. Overall 84% satisfied.,1,Phone Charger,Mobile App
+261,2024-03-06,CUST3981,Waited on hold for 2 hours and still no resolution. Overall 79% satisfied.,1,Laptop Bag,Email
+262,2024-06-07,CUST9444,The support agent was rude and unhelpful. Overall 25% satisfied.,2,Router,Phone
+263,2024-06-27,CUST6110,Website interface is confusing and hard to navigate. Would not buy again.,2,Mechanical Keyboard,Mobile App
+264,2024-10-20,CUST7626,Delivery was to wrong address. Had to call multiple times.,2,HDMI Cable,Website
+265,2024-05-08,CUST1854,Parcel was left unattended outside. Anyone could have taken it. Would not buy again.,2,Phone Charger,Email
+266,2024-12-04,CUST4733,Outstanding quality and great packaging. 5 stars!,5,Laptop Stand,Mobile App
+267,2024-11-17,CUST7786,My account was hacked and I need urgent help. Overall 38% satisfied.,2,Mechanical Keyboard,Website
+268,2024-12-08,CUST2562,Money deducted but I received no order confirmation.,1,Phone Case,Phone
+269,2024-07-14,CUST6881,Customer support responded eventually but took time. Would recommend.,4,HDMI Cable,Website
+270,2024-05-25,CUST9445,Happy with the quality. The product is exactly what I needed.,5,Laptop Stand,Mobile App
+271,2024-02-02,CUST8498,Support chat is slow and agents don't seem knowledgeable. Would try again.,1,HDMI Cable,Mobile App
+272,2024-06-18,CUST3662,Billing amount was higher than the price shown at checkout.,2,Webcam,In-Store
+273,2024-12-19,CUST5097,Received my order. It is as described.,4,HDMI Cable,Mobile App
+274,2024-03-12,CUST7912,Outstanding quality and great packaging. 5 stars!,4,Webcam,Phone
+275,2024-04-24,CUST2773,Shipment tracking showed no update for 4 days.,2,Router,WhatsApp
+276,2024-07-16,CUST6554,The support team took 7 days to respond to my simple question.,1,Monitor,In-Store
+277,2024-12-17,CUST4824,Overall experience was satisfactory. Could be improved.,4,Smart Watch,Phone
+278,2024-12-25,CUST9998,Very flimsy construction. Would not recommend.,2,Router,In-Store
+279,2024-10-27,CUST2871,The app logged me out and deleted my cart.,2,Phone Charger,Phone
+280,2024-11-16,CUST8242,The app is functional but needs some improvements.,3,Smart Watch,WhatsApp
+281,2024-02-16,CUST9691,My order was marked as delivered but I never received it.,1,Screen Protector,Phone
+282,2024-02-26,CUST3504,Fantastic experience from ordering to delivery. Thank you!,4,Laptop Bag,Email
+283,2024-08-20,CUST9282,Received a wrong item in my order. Very inconvenient. Overall 96% satisfied.,2,USB Hub,In-Store
+284,2024-10-03,CUST6994,Product works but battery life could be better. Would not buy again.,4,Power Bank,WhatsApp
+285,2024-08-08,CUST3088,The app worked flawlessly. Easy to browse and order. Would recommend.,4,HDMI Cable,WhatsApp
+286,2024-02-02,CUST8802,Package still hasn't arrived after 10 days. Very disappointed.,2,Phone Charger,Email
+287,2024-03-08,CUST2476,Packaging was simple but item was protected. Overall 94% satisfied.,4,Desk Lamp,In-Store
+288,2024-02-24,CUST2578,The finish is poor and shows scratches easily. Would try again.,1,Keyboard,Mobile App
+289,2024-02-06,CUST7505,My shipment got stuck in transit for 5 days. No support provided. Overall 91% satisfied.,1,Laptop Bag,Website
+290,2024-08-13,CUST8479,The verification process is too complicated. Would not buy again.,1,Laptop Bag,Mobile App
+291,2024-01-28,CUST2600,My refund was rejected without any valid reason. Overall 30% satisfied.,2,Keyboard,Website
+292,2024-10-05,CUST1602,Cannot access my order history on the app.,2,Router,Email
+293,2024-11-16,CUST4919,"Excellent product, works exactly as described.",5,Mechanical Keyboard,Website
+294,2024-08-03,CUST5133,Customer support was extremely helpful and responsive. Overall 68% satisfied.,4,Monitor,Website
+295,2024-11-06,CUST9379,Very good experience overall. Will order again soon.,4,Screen Protector,Email
+296,2024-12-15,CUST5088,Five stars for product quality and delivery speed. Would not buy again.,4,Phone Charger,Email
+297,2024-06-19,CUST9903,Packaging was simple but item was protected. Overall 81% satisfied.,4,Mechanical Keyboard,WhatsApp
+298,2024-06-06,CUST9148,Billing amount was higher than the price shown at checkout.,1,Laptop Stand,Phone
+299,2024-12-31,CUST8292,The chat support kept disconnecting without resolving my issue. Would not buy again.,1,Desk Lamp,In-Store
+300,2024-01-07,CUST7882,My order arrived earlier than expected. Great service! Overall 28% satisfied.,5,USB Hub,Phone
+301,2024-04-17,CUST6744,My account was locked without any explanation. Would recommend.,2,Power Bank,Email
+302,2024-03-11,CUST3538,Received a wrong item in my order. Very inconvenient. Would recommend.,1,HDMI Cable,Website
+303,2024-03-22,CUST6364,My card was charged for a product I never ordered. Would try again.,2,Smart Watch,Mobile App
+304,2024-05-17,CUST6289,Password reset link is not working.,2,Desk Lamp,Email
+305,2024-01-15,CUST4232,Cannot complete checkout on the app. It shows an error.,2,Laptop Bag,Phone
+306,2024-10-06,CUST9000,Very flimsy construction. Would not recommend. Would recommend.,1,Router,In-Store
+307,2024-02-27,CUST1527,The material feels cheap and is already peeling. Would not buy again.,2,Bluetooth Headphones,Mobile App
+308,2024-06-10,CUST2188,Best purchase I've made this year. Absolutely love it.,4,Mechanical Keyboard,Email
+309,2024-05-02,CUST3068,Outstanding quality and great packaging. 5 stars! Would not buy again.,5,USB Hub,Email
+310,2024-07-18,CUST6507,"Excellent product, works exactly as described.",5,Power Bank,Phone
+311,2024-02-04,CUST6649,The helpline number is always busy. Very poor service. Overall 22% satisfied.,1,USB Hub,Email
+312,2024-05-13,CUST7211,Really good product. No complaints at all.,5,Smart Watch,Phone
+313,2024-06-28,CUST1100,Very slow delivery. Expected in 3 days but received in 9 days. Overall 59% satisfied.,1,Phone Case,Email
+314,2024-03-15,CUST3254,Customer service did not respond to my complaint for 3 days. Overall 32% satisfied.,1,HDMI Cable,Phone
+315,2024-08-08,CUST3878,Received a wrong item in my order. Very inconvenient.,1,Screen Protector,Email
+316,2024-05-29,CUST2133,Cannot access my order history on the app.,2,Monitor,Mobile App
+317,2024-01-01,CUST9518,Outstanding quality and great packaging. 5 stars!,4,Phone Charger,Phone
+318,2024-05-01,CUST3662,Five stars for product quality and delivery speed. Would recommend.,4,Laptop Bag,Website
+319,2024-10-06,CUST6546,My complaint was closed without resolution. Overall 25% satisfied.,1,Mechanical Keyboard,In-Store
+320,2024-02-20,CUST2646,Overall experience was satisfactory. Could be improved.,4,Power Bank,In-Store
+321,2024-09-16,CUST5345,Got exactly what I ordered. Very pleased with the experience. Would not buy again.,4,Phone Charger,Website
+322,2024-10-14,CUST9281,Cannot access my order history on the app.,2,Laptop Bag,In-Store
+323,2024-12-15,CUST1793,OTP is not being received on my registered number. Overall 82% satisfied.,1,USB Hub,In-Store
+324,2024-06-04,CUST3697,The support agent was rude and unhelpful. Would not buy again.,1,Desk Lamp,In-Store
+325,2024-08-21,CUST3184,Amazing customer service! They resolved my issue within minutes.,5,Earbuds,Email
+326,2024-02-03,CUST6401,My package was delivered to a neighbor without my consent. Overall 100% satisfied.,1,Router,In-Store
+327,2024-05-22,CUST2025,The app crashes every time I try to place an order. Would try again.,1,Router,Mobile App
+328,2024-07-13,CUST2584,Outstanding quality and great packaging. 5 stars!,5,Phone Charger,Email
+329,2024-10-25,CUST6781,Money deducted but I received no order confirmation. Would recommend.,1,Wireless Mouse,WhatsApp
+330,2024-07-21,CUST5169,Product quality is far below what was advertised.,1,Smart Watch,Email
+331,2024-08-28,CUST5342,Product is decent for the price.,4,Screen Protector,In-Store
+332,2024-08-09,CUST4043,It's been 3 weeks and my refund still hasn't arrived.,2,Laptop Stand,Email
+333,2024-08-02,CUST9818,The product quality is excellent. Very happy with my purchase.,4,Monitor,Mobile App
+334,2024-11-05,CUST4450,The website is user-friendly and checkout was smooth. Overall 54% satisfied.,5,Smart Watch,In-Store
+335,2024-05-27,CUST2996,Billing amount was higher than the price shown at checkout. Overall 91% satisfied.,2,Screen Protector,WhatsApp
+336,2024-07-15,CUST4122,Average experience. Would try again to see if it improves. Would not buy again.,3,Laptop Stand,WhatsApp
+337,2024-05-05,CUST4657,The customer service team was very polite and helpful. Overall 23% satisfied.,4,USB Hub,In-Store
+338,2024-12-03,CUST4164,The app worked flawlessly. Easy to browse and order.,5,Desk Lamp,WhatsApp
+339,2024-12-08,CUST5065,Very satisfied with my order. Everything was perfect.,5,Power Bank,In-Store
+340,2024-03-26,CUST2354,The verification process is too complicated.,1,Keyboard,WhatsApp
+341,2024-10-15,CUST1674,Very poor customer service. Will not recommend this company. Overall 97% satisfied.,1,Laptop Stand,Website
+342,2024-10-16,CUST3950,Product is decent for the price.,3,Power Bank,Website
+343,2024-05-19,CUST8259,Still waiting for my package after 8 days. Very frustrating.,2,Monitor,Email
+344,2024-04-23,CUST9366,The website is very slow and keeps timing out. Overall 32% satisfied.,1,Mechanical Keyboard,WhatsApp
+345,2024-02-22,CUST2311,Support promised a callback but never called back. Overall 57% satisfied.,2,HDMI Cable,WhatsApp
+346,2024-02-01,CUST7596,The item was delivered on time and in perfect condition.,5,USB Hub,Mobile App
+347,2024-08-30,CUST9698,The app is very smooth and easy to use. Love it. Overall 94% satisfied.,5,Laptop Bag,In-Store
+348,2024-04-05,CUST8973,Cannot complete checkout on the app. It shows an error.,1,Router,Mobile App
+349,2024-10-18,CUST6747,OTP is not being received on my registered number.,2,Router,Mobile App
+350,2024-02-26,CUST5720,The customer service team gave wrong information.,1,HDMI Cable,Website

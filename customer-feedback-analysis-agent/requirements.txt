@@ -1,0 +1,19 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Customer Feedback Analysis Agent — PRODUCTION deps (Vercel AND Render)
+# Kept deliberately minimal so the serverless bundle stays under Vercel's
+# 250 MB limit. Heavy optional libraries (scikit-learn, nltk, streamlit,
+# plotly) are intentionally excluded — every tool has a built-in fallback.
+# For the local Streamlit version install requirements-local.txt instead.
+# ─────────────────────────────────────────────────────────────────────────────
+Flask==3.0.3
+Werkzeug==3.0.3
+pandas==2.2.3
+numpy==2.1.3
+reportlab==4.2.5
+vaderSentiment==3.3.2
+groq==0.11.0
+python-dotenv==1.0.1
+
+# WSGI server — used by Render / Railway / any container host.
+# Vercel ignores this (it supplies its own runtime).
+gunicorn==22.0.0
